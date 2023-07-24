@@ -2,13 +2,13 @@
 
 ### But how we predict your car value ?
 
-* we do that based on typeorm Query Builder
-  - Based on some info and data we have 
+- we do that based on typeorm Query Builder
+
+  - Based on some info and data we have
   - We limit the reports coming back to 3 reports
   - then take the average of its prices and here we go
 
-* i implemented Unit Testing and E2E testing for Auth routes and functionalities
-
+- i implemented Unit Testing and E2E testing for Auth routes and functionalities
 
 ### Installation
 
